@@ -11,9 +11,9 @@ Then, I created the interactive bar chart with Flourish for data visualization. 
 
 You can check the script in multiple formats:
 
-- [Jupyter Notebook](https://github.com/faisalydth/MP-EPL1020/blob/main/Notebook-EPL1020.ipynb)
-- [HTML](https://github.com/faisalydth/MP-EPL1020/blob/main/Notebook-EPL1020.html) (exported file)
-- [PDF](https://github.com/faisalydth/MP-EPL1020/blob/main/Notebook-EPL1020.pdf) (exported file)
+- [Jupyter Notebook](https://github.com/faisalydth/mp-epl-goals-scored/blob/main/Notebook-EPL1020.ipynb)
+- [HTML](https://github.com/faisalydth/mp-epl-goals-scored/blob/main/exported/Notebook-EPL1020.html) (exported file)
+- [PDF](https://github.com/faisalydth/mp-epl-goals-scored/blob/main/exported/Notebook-EPL1020.pdf) (exported file)
 
 ## Output
 
